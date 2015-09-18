@@ -1,0 +1,15 @@
+Source: libjs-bootstrap-typeahead
+Section: web
+Priority: extra
+Maintainer: Rémi Palancher <remi-externe.palancher@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://twitter.github.io/typeahead.js/
+
+Package: libjs-bootstrap-typeahead
+Architecture: all
+Depends: ${misc:Depends}, libjs-jquery, libjs-bootstrap
+Recommends: javascript-common
+Description: typeahead plugin for bootstrap3
+ libjs-bootstrap-typehead a flexible JavaScript library that provides
+ a strong foundation for building robust typeaheads.
