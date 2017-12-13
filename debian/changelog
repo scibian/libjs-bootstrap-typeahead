@@ -1,3 +1,9 @@
+libjs-bootstrap-typeahead (0.11.1-1sci8u1) scibian8; urgency=medium
+
+  * Scibian8 rebuild.
+
+ -- Thomas Hamel <thomas-externe.hamel@edf.fr>  Wed, 13 Dec 2017 17:30:18 +0100
+
 libjs-bootstrap-typeahead (0.11.1-1+c9+1) calibre9; urgency=medium
 
   * Backport to Calibre 9
