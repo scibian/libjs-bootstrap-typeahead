@@ -4,6 +4,7 @@ Source: https://github.com/twitter/typeahead.js/
 
 Files: debian/*
 Copyright: (c) 2015, EDF SA
+           (c) 2017 Scibian Project <legal@scibian.org>
 License: GPL-3
  Please refer to /usr/share/common-licenses/GPL-3
 
