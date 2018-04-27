@@ -1,3 +1,9 @@
+libjs-bootstrap-typeahead (0.11.1-1sci9u1) scibian9; urgency=medium
+
+  * Rebuild for scibian9.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Fri, 27 Apr 2018 10:45:48 +0200
+
 libjs-bootstrap-typeahead (0.11.1-1sci8u1) scibian8; urgency=medium
 
   * Scibian8 rebuild.
